@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Obsidianite",
+  "interfaceFontFamily": "Poppins",
+  "textFontFamily": "Poppins",
+  "showRibbon": true,
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

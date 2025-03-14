@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "70e78c772d21360f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae79a040c142fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "441dd5363872eb54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/19. Repository maintanance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19. Repository maintanance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f174b15ab25d941",
+    "type": "split",
+    "children": [
+      {
+        "id": "178187a49571c026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751d1c42c17714bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff2cf8e7af24129e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96a0794641a4aef8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffa9178faff97dca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dcf136fa227102b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4beb0c2ef5d3882",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3ebf6e81011341bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ffc6b7582e78b0bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7e172bb2716263e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT/Head-First-GIT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Head-First-GIT"
+            }
+          },
+          {
+            "id": "ee517c0a8395ce2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "dec96e236c00ad11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "751d1c42c17714bd",
+  "lastOpenFiles": [
+    "GIT/18. Merge strategies.md",
+    "GIT/19. Repository maintanance.md",
+    "GIT/17. Patching.md",
+    "GIT/16. Shallow copy.md",
+    "GIT/15. Notes.md",
+    "GIT/14. Filters & Attributes.md",
+    "GIT/13. Configuration.md",
+    "GIT/12. Worktree.md",
+    "GIT/11. Rerere.md",
+    "GIT/10. Signed commits and tags.md",
+    "GIT/9. Bisect.md",
+    "GIT/8. Reflog.md",
+    "GIT/7. Internals.md",
+    "GIT/6. Submodule & Subtree.md",
+    "GIT/5. Hooks.md",
+    "GIT/4. Stashing.md",
+    "GIT/1. Workflows.md",
+    "GIT/3. Rebasing.md",
+    "GIT/2. Cherry-picking.md",
+    "GIT/Head-First-GIT.md",
+    "Docker/1.Intro.md",
+    "2025-03-14.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled Kanban.md",
+    "Docker/4.Composing.md",
+    "Docker/3.Manipulating Containers.md",
+    "Docker/2.Creating Docker Images.md",
+    "Others/images/Screenshot 2025-03-05 at 12.28.24 PM.png",
+    "Docker/composing",
+    "VIM",
+    "Others/images/Screenshot 2025-02-27 at 12.12.27 PM 1.png",
+    "GIT",
+    "Others/images/Screenshot 2025-02-27 at 11.47.53 AM.png",
+    "Others/images/Screenshot 2025-02-27 at 12.12.27 PM.png",
+    "Others",
+    "Others/images/Screenshot 2025-02-26 at 4.40.27 PM.png",
+    "Others/images/Screenshot 2025-02-26 at 5.01.04 PM.png",
+    "Others/images/Screenshot 2025-02-26 at 5.43.23 PM 2.png",
+    "Others/images/Screenshot 2025-02-26 at 5.43.23 PM 1.png",
+    "Others/images/Screenshot 2025-02-26 at 5.43.23 PM.png",
+    "Others/images/Screenshot 2025-02-25 at 10.37.28 PM.png",
+    "Others/images",
+    "Docker"
+  ]
+}
